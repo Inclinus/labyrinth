@@ -25,8 +25,9 @@ Et c'est parti, vous êtes lancés, trouvez le chemin jusqu'à l'étoile pour re
 
 Les labyrinthes sont tous générés aléatoirement, ne vous inquiétez pas !
 
-## Ajouts
+## Améliorations
 
+### Bombes
 Vous l'auriez remarqué, vous avez la possibilité de vous amusez un peu plus dans votre recherche de l'étoile :
 ```bash
 Souhaitez-vous des bombes sur le labyrinthe ? (o/n) :
@@ -34,7 +35,7 @@ Souhaitez-vous des bombes sur le labyrinthe ? (o/n) :
 
 En effet, vous avez la possibilité de faire apparaitre des bombes aléatoirement sur le labyrinthe, vous permettant d'exploser tous les murs autour de vous ! (N'ayez crainte, vous avez une armure suffisamment résistante pour ne pas prendre de dégâts)
 
-
+###Temps de jeu
 Vous remarquez également qu'à la fin de chaque partie, vous obtenez votre temps de jeu, intéressant pour essayer de battre son meilleur score ! (Enfin bon, l'aléatoire étant ce qu'il est, bon courage)
 
 ## Contribuer
