@@ -48,5 +48,6 @@ Vous remarquez également qu'à la fin de chaque partie, vous obtenez votre temp
 ## Contribuer
 Le projet est terminé, les contributions ne sont pas admises sur ce repository.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Licence
+
+Vous êtes libre de faire ce que vous voulez de ce code.
