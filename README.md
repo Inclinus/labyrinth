@@ -18,6 +18,11 @@ Téléchargez le code source (ou clonez le repository) et compilez-le à l'aide 
 gcc main.c level.c -o prog $(sdl2-config --cflags --libs) -lSDL2_image
 ```
 
+Pour le lancer, rien de plus simple :
+
+```bash
+./prog
+```
 
 ## Principe du jeu
 
