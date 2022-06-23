@@ -4,6 +4,10 @@ Labyrinth est un projet de Langage C fait en 1ère année à l'ESGI.
 
 Intervenant ayant proposé le projet : M. Kevin TRANCHO
 
+## Prérequis
+
+- Librairie SDL2
+
 ## Installation
 
 Téléchargez le code source (ou clonez le repository) et compilez-le à l'aide de la commande suivante (Linux) :
